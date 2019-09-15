@@ -36,11 +36,11 @@ void setup()
 
 void loop()
 {
-  if(analogRead(voltagePin) * 5/1023 > 4.5){
+  if(analogRead(voltagePin) * 5/1023 > 4.75){
     GLEDON();
     RLEDOFF();
   }
-  else if(analogRead(voltagePin) * 5/1023 > 3){
+  else if(analogRead(voltagePin) * 5/1023 > 3.5){
     RLEDON();
     GLEDON();
   }
