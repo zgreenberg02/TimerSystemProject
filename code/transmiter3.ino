@@ -26,8 +26,9 @@ int tones[] = {261, 277, 294, 311, 330, 349, 370, 392, 415, 440};
 
 void setup()
 {
-  if (!driver.init())
-    Serial.println("init failed");
+//  Serial.begin(9600);
+//  if (!driver.init())
+//    Serial.println("init failed");
   pinMode(LED, OUTPUT);
   LEDOFF();
   pinMode(button, INPUT_PULLUP);
@@ -36,13 +37,16 @@ void setup()
 void loop()
 {
   if(analogRead(voltagePin) * 5/1023 > 4.5){
-    LEDON();
+    GLEDON();
+    RLEDOFF();
   }
   else if(analogRead(voltagePin) * 5/1023 > 3){
-    LEDON();
+    RLEDON();
+    GLEDON();
   }
   else {
-    LEDON();
+    RLEDON();
+    GLEDOFF();
   }
   if (digitalRead(button) == HIGH ) {
     sendM(msg2);
