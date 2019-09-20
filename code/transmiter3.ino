@@ -26,9 +26,9 @@ int tones[] = {261, 277, 294, 311, 330, 349, 370, 392, 415, 440};
 
 void setup()
 {
-//  Serial.begin(9600);
-//  if (!driver.init())
-//    Serial.println("init failed");
+  Serial.begin(9600);
+  if (!driver.init())
+    Serial.println("init failed");
   pinMode(LED, OUTPUT);
   LEDOFF();
   pinMode(button, INPUT_PULLUP);
@@ -36,11 +36,13 @@ void setup()
 
 void loop()
 {
-  if(analogRead(voltagePin) * 5/1023 > 4.75){
+  Serial.println(analogRead(voltagePin) * 5.0/1023.0);
+  Serial.println(analogRead(voltagePin));
+  if(analogRead(voltagePin) * 5/1023.0 > 4.75){
     GLEDON();
     RLEDOFF();
   }
-  else if(analogRead(voltagePin) * 5/1023 > 3.5){
+  else if(analogRead(voltagePin) * 5.0/1023.0 > 3.5){
     RLEDON();
     GLEDON();
   }
