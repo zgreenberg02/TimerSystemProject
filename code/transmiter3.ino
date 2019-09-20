@@ -52,28 +52,8 @@ void loop()
   }
   if (digitalRead(button) == HIGH ) {
     sendM(msg2);
-    //    tone(speakerPin, 261);
-    //    LEDON();
-    //    driver.send((uint8_t *)msg2, strlen(msg2));
-    //    driver.waitPacketSent();
-    //    delay(500);
-    //    noTone(speakerPin);
-    //    delay(2000);
     if (digitalRead(button) == HIGH ) {
       sendM(msg);
-      //      tone(speakerPin, 261);
-      //      LEDON();
-      //      driver.send((uint8_t *)msg, strlen(msg));
-      //      driver.waitPacketSent();
-      //      delay(500);
-      //      noTone(speakerPin);
-      //      LEDOFF();
-      //      delay(2500);
-    }
-    //    else {
-    //      LEDOFF();
-    //    }
-
   }
 }
 
@@ -89,7 +69,6 @@ void sendM(const char *m) {
     if((endtime - starttime) >= 500){
       noTone(speakerPin);
     }
-    //loopcount = loopcount + 1;
     endtime = millis();
   }
   LEDOFF();
