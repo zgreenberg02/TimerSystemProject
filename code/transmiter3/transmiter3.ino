@@ -10,7 +10,8 @@ int voltagePin = A4;
 int speakerPin = 13;
 int numTones = 10;
 const char *msg = "r-set";
-const char *msg2 = "s-set";
+const char *msg2 = "s-set";   // for starter
+//const char *msg2 = "p-set"; // for stoper
 
 
 int tones[] = {261, 277, 294, 311, 330, 349, 370, 392, 415, 440};
