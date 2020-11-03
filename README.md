@@ -5,7 +5,10 @@ The Timer System is a system that I created as a voulnteer project for the local
 ![Timer System with the start and stop button](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/TimerSystem.jpg?raw=true)
 The Timer System set up leaning on the back of a couch (instead of hanging on a wall) with the start and stop buzzers by it. <br /> <br />
 
-
 ![Start Button](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/startButton.jpg)
+![Start Button Pressed](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/startButtonPressed.jpg)
+Above, there is an image of the start button and the start button being pressed. <br /> <br />
 
-
+![Stop Button](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/startButton.jpg)
+![Stop Button Pressed](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/startButtonPressed.jpg)
+Above, there is an image of the start button and the start button being pressed. <br /> <br />
