@@ -5,7 +5,7 @@ The Timer System is a system that I created as a voulnteer project for the local
 ![Timer System with the start and stop button](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/TimerSystem.jpg?raw=true)
 The Timer System set up leaning on the back of a couch (instead of hanging on a wall) with the start and stop buzzers by it. <br /> <br />
 
-[![Timer System running with buttons](http://img.youtube.com/vi/QVdmZLONK-U/0.jpg)](http://www.youtube.com/watch?v=QVdmZLONK-U) <br /> 
+[![Timer System running with buttons](http://img.youtube.com/vi/ExlcoNli3zw/0.jpg)](http://www.youtube.com/watch?v=QVdmZLONK-UExlcoNli3zw) <br /> 
 Above is a video of the timer system running. The buttons are used to start, stop, and reset the timer. Click on it to watch the video. <br /> <br /> 
 
 [![Timer System running with key fob](http://img.youtube.com/vi/QVdmZLONK-U/0.jpg)](http://www.youtube.com/watch?v=QVdmZLONK-U) <br /> 
