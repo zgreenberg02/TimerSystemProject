@@ -59,8 +59,6 @@ String receiver() {
     }
     return str;
 
-
-
   }
   return "";
 
@@ -167,11 +165,12 @@ void showNumber(long number)
 //Given a number, or '-', shifts it out to the display
 void postNumber(byte number, boolean decimal)
 {
-  //    -  A
-  //   / / F/B
-  //    -  G
-  //   / / E/C
-  //    -. D/DP
+  // Below, the -, |, and . represent the parts of one of the digits of the display. The letter/letters to the side of each line show which letter represents each part of the number.
+  //    -    A
+  //   | |   F/B
+  //    -    G
+  //   | |   E/C
+  //    - .  D/DP
 
 #define a  1<<0
 #define b  1<<6
