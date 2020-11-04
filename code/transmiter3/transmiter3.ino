@@ -1,5 +1,5 @@
 #include <RH_ASK.h>
-#include <SPI.h> // Not actually used but needed to compile
+#include <SPI.h> // Not actually used, but needed in order to compile
 
 RH_ASK driver;
 int LED = 3;
