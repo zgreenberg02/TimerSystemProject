@@ -7,7 +7,7 @@ The Timer System set up leaning on the back of a couch (instead of hanging on a 
 
 ![Start Button](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/startButton.jpg)
 ![Start Button Pressed](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/startButtonPressed.jpg)
-![Start Button Pressed Video](https://youtu.be/QVdmZLONK-U)
+[![Start Button Being Pressed](http://img.youtube.com/vi/QVdmZLONK-U/0.jpg)](http://www.youtube.com/watch?v=QVdmZLONK-U)
 Above there are images of the start button and it being pressed. <br /> <br /> 
 
 ![Stop Button](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/stopButton.jpg)
