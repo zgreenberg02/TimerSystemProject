@@ -11,12 +11,6 @@ Above is a video of the timer system running. In this video, the buttons are use
 [![Timer System running with key fob](http://img.youtube.com/vi/jaDrv7_3Kfk/0.jpg)](http://www.youtube.com/watch?v=jaDrv7_3Kfk) <br /> 
 Above is a video of the timer system running. In this video, the key fob is used to start, stop, and reset the timer. Click on it to watch the video. <br /> <br />
 
-[![Start Button Being Pressed](http://img.youtube.com/vi/QVdmZLONK-U/0.jpg)](http://www.youtube.com/watch?v=QVdmZLONK-U) <br /> 
-Above is a video of the start button being pressed. Click on it to watch the video. <br /> <br /> 
-
-![Stop Button Pressed](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/stopButtonPressed.jpg)
-Above is an image of the stop button being pressed. <br /> <br />
-
 ![Button wiring](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/button.png)
 Above is the button wiring diagram that I made before wiring and assembling the Timer System. <br /> <br /> 
 
