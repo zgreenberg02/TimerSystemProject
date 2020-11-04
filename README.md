@@ -8,7 +8,7 @@ The Timer System set up leaning on the back of a couch (instead of hanging on a 
 [![Timer System running with buttons](http://img.youtube.com/vi/ExlcoNli3zw/0.jpg)](http://www.youtube.com/watch?v=ExlcoNli3zw) <br /> 
 Above is a video of the timer system running. The buttons are used to start, stop, and reset the timer. Click on it to watch the video. <br /> <br /> 
 
-[![Timer System running with key fob](http://img.youtube.com/vi/QVdmZLONK-U/0.jpg)](http://www.youtube.com/watch?v=QVdmZLONK-U) <br /> 
+[![Timer System running with key fob](http://img.youtube.com/vi/jaDrv7_3Kfk/0.jpg)](http://www.youtube.com/watch?v=jaDrv7_3Kfk) <br /> 
 Above is a video of the timer system running. The key fob is used to start, stop, and reset the timer. Click on it to watch the video. <br /> <br />
 
 [![Start Button Being Pressed](http://img.youtube.com/vi/QVdmZLONK-U/0.jpg)](http://www.youtube.com/watch?v=QVdmZLONK-U) <br /> 
