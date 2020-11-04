@@ -17,3 +17,8 @@ Above is a video of the start button being pressed. Click on it to watch the vid
 ![Stop Button Pressed](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/stopButtonPressed.jpg)
 Above is an image of the stop button being pressed. <br /> <br />
 
+![Button wiring](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/button.png)
+Above is the initial button wiring diagram that I made before wiring and assembling the Timer System. <br /> <br /> 
+
+![Button wiring](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/display.png)
+Above is the initial diaplay wiring diagram that I made before wiring and assembling the Timer System. <br /> <br /> 
