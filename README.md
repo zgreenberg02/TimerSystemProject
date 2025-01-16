@@ -1,7 +1,7 @@
 # Timer System Project
-The Timer System is an electronic timing device that I developed as a volunteer project for the local America Ninja Warrior Gym. The system is designed to time participants as they complete obstacle courses. It features a green start button to begin the timer, a red stop button to halt the timer, and a reset function available by pressing and holding either button. Additionally, a key fob allows remote control of the timer to start, stop, and reset the system. <br /> <br />
+The Timer System is an electronic timing device that I developed as a volunteer project for the local America Ninja Warrior Gym. The system is designed to time participants as they complete obstacle courses. It features a green start button to begin the timer, a red stop button to halt the timer, and a reset function available by pressing and holding either button. Additionally, a key fob allows remote control of the timer to start, stop, and reset the system. <br /> 
 
-### System Overview
+## System Overview
 The Timer System offers an efficient, easy-to-use solution for timing obstacle course participants. Designed for simplicity, it features intuitive controls that allow gym staff to quickly start, stop, and reset the timer between trials. <br /> <br />
 
 
