@@ -1,5 +1,5 @@
-# TimerSystemProject
-
+## Timer System Project
+# test
 The Timer System is an electronic system that I created as a volunteer project for the local America Ninja Warrior Gym. The Timer System is used to time the participants in completing obstacle courses.  Depressing the green button starts the timer and it can be stopped by pushing the red button.  Either button can be pressed and held down to reset the timer for the next participant or trial.  Additionally, a small key fob can be used to start, stop, and reset the Timer System. <br /> <br />
 
 ![Timer System with the start and stop button](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/TimerSystem.jpg?raw=true)
