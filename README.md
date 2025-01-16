@@ -15,6 +15,11 @@ The video above demonstrates the use of the timer with the start, stop, and rese
 [![Timer System running with key fob](http://img.youtube.com/vi/jaDrv7_3Kfk/0.jpg)](http://www.youtube.com/watch?v=jaDrv7_3Kfk) <br /> 
 This video displays the use of the key fob to control the Timer System (click on the photograph to watch the video). <br /> <br /> 
 
+### Design and 3D Printing
+The Timer System was designed using CAD software ensuring all components fit seamlessly. The designed models were used to manufacture the system using 3D printing. <br /> 
+[![CAD of Button Case](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/TimerSystem.jpg?raw=true) <br /> 
+Above is the CAD model of the Timer System, which shows the arrangement of the buttons, display, and other components. <br /> <br />
+
 ### Design and Wiring Diagrams
 ![Button wiring](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/button.png)
 Above is the wiring diagram for the buttons that control the system. <br /> <br /> 
