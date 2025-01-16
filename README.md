@@ -17,7 +17,7 @@ This video displays the use of the key fob to control the Timer System (click on
 
 ### Design and 3D Printing
 The Timer System was designed using CAD software ensuring all components fit seamlessly. The designed models were used to manufacture the system using 3D printing. <br /> 
-[![CAD of Button Case](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/TimerSystem.jpg?raw=true) <br /> 
+![CAD of Button Case](https://github.com/zgreenberg02/TimerSystemProject/blob/master/Images/ButtonCasingCAD.jpg?raw=true) <br /> 
 Above is the CAD model of the Timer System, which shows the arrangement of the buttons, display, and other components. <br /> <br />
 
 ### Design and Wiring Diagrams
